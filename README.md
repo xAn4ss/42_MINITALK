@@ -7,7 +7,7 @@ You must create a communication program in the form of a 'client' and a 'server'
  
   -The client takes 2 parameters:
   
-     *The server PID.
-     *The string to send.
+     ◦The server PID.
+     ◦The string to send.
      
 The client must send the string to the server, and once received it must be printed.     
